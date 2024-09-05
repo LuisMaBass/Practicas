@@ -1,0 +1,136 @@
+﻿  main.cpp
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AbstractModel.h(264,12): warning C4251: 'AbstractModel::position': struct 'glm::vec<3,float,glm::packed_highp>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'AbstractModel'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\external\glm\glm\fwd.hpp(420,10): message : vea la declaración de 'glm::vec<3,float,glm::packed_highp>'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AbstractModel.h(265,12): warning C4251: 'AbstractModel::scale': struct 'glm::vec<3,float,glm::packed_highp>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'AbstractModel'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\external\glm\glm\fwd.hpp(420,10): message : vea la declaración de 'glm::vec<3,float,glm::packed_highp>'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AbstractModel.h(266,12): warning C4251: 'AbstractModel::color': struct 'glm::vec<4,float,glm::packed_highp>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'AbstractModel'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\external\glm\glm\fwd.hpp(421,10): message : vea la declaración de 'glm::vec<4,float,glm::packed_highp>'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AbstractModel.h(267,12): warning C4251: 'AbstractModel::orientation': struct 'glm::vec<3,float,glm::packed_highp>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'AbstractModel'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\external\glm\glm\fwd.hpp(420,10): message : vea la declaración de 'glm::vec<3,float,glm::packed_highp>'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AbstractModel.h(269,22): warning C4251: 'AbstractModel::vertexArray': class 'std::vector<AbstractModel::Vertex,std::allocator<AbstractModel::Vertex>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'AbstractModel'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AbstractModel.h(245,13): message : vea la declaración de 'std::vector<AbstractModel::Vertex,std::allocator<AbstractModel::Vertex>>'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AbstractModel.h(270,22): warning C4251: 'AbstractModel::index': class 'std::vector<GLuint,std::allocator<GLuint>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'AbstractModel'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AbstractModel.h(270,7): message : vea la declaración de 'std::vector<GLuint,std::allocator<GLuint>>'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AbstractModel.h(271,7): warning C4251: 'AbstractModel::aabb': class 'AbstractModel::AABB' necesita tener una interfaz DLL para que la utilicen los clientes de class 'AbstractModel'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AbstractModel.h(65,8): message : vea la declaración de 'AbstractModel::AABB'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AbstractModel.h(272,6): warning C4251: 'AbstractModel::sbb': class 'AbstractModel::SBB' necesita tener una interfaz DLL para que la utilicen los clientes de class 'AbstractModel'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AbstractModel.h(51,8): message : vea la declaración de 'AbstractModel::SBB'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AbstractModel.h(273,6): warning C4251: 'AbstractModel::obb': class 'AbstractModel::OBB' necesita tener una interfaz DLL para que la utilicen los clientes de class 'AbstractModel'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AbstractModel.h(94,8): message : vea la declaración de 'AbstractModel::OBB'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AbstractModel.h(75,17): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AbstractModel.h(76,17): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AbstractModel.h(77,17): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AbstractModel.h(78,17): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AbstractModel.h(79,17): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AbstractModel.h(80,17): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Sphere.h(39,6): warning C4251: 'Sphere::sbb': class 'AbstractModel::SBB' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Sphere'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AbstractModel.h(51,8): message : vea la declaración de 'AbstractModel::SBB'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Box.h(37,7): warning C4251: 'Box::aabb': class 'AbstractModel::AABB' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Box'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AbstractModel.h(65,8): message : vea la declaración de 'AbstractModel::AABB'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Camera.h(111,12): warning C4251: 'Camera::position': struct 'glm::vec<3,float,glm::packed_highp>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Camera'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\external\glm\glm\fwd.hpp(420,10): message : vea la declaración de 'glm::vec<3,float,glm::packed_highp>'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Camera.h(112,12): warning C4251: 'Camera::front': struct 'glm::vec<3,float,glm::packed_highp>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Camera'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\external\glm\glm\fwd.hpp(420,10): message : vea la declaración de 'glm::vec<3,float,glm::packed_highp>'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Camera.h(113,12): warning C4251: 'Camera::up': struct 'glm::vec<3,float,glm::packed_highp>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Camera'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\external\glm\glm\fwd.hpp(420,10): message : vea la declaración de 'glm::vec<3,float,glm::packed_highp>'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Camera.h(114,12): warning C4251: 'Camera::right': struct 'glm::vec<3,float,glm::packed_highp>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Camera'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\external\glm\glm\fwd.hpp(420,10): message : vea la declaración de 'glm::vec<3,float,glm::packed_highp>'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Camera.h(115,12): warning C4251: 'Camera::worldUp': struct 'glm::vec<3,float,glm::packed_highp>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Camera'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\external\glm\glm\fwd.hpp(420,10): message : vea la declaración de 'glm::vec<3,float,glm::packed_highp>'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Camera.h(117,12): warning C4251: 'Camera::cameraTarget': struct 'glm::vec<3,float,glm::packed_highp>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Camera'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\external\glm\glm\fwd.hpp(420,10): message : vea la declaración de 'glm::vec<3,float,glm::packed_highp>'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Texture.h(81,14): warning C4251: 'Texture::m_fileName': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Texture'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(5119,29): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Texture.h(84,14): warning C4251: 'Texture::type': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Texture'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(5119,29): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Bones.h(111,38): warning C4251: 'Bones::m_BoneMapping': class 'std::map<std::string,unsigned int,std::less<std::string>,std::allocator<std::pair<const std::string,unsigned int>>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Bones'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Bones.h(111,7): message : vea la declaración de 'std::map<std::string,unsigned int,std::less<std::string>,std::allocator<std::pair<const std::string,unsigned int>>>'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Bones.h(112,24): warning C4251: 'Bones::m_BoneInfo': class 'std::vector<Bones::BoneInfo,std::allocator<Bones::BoneInfo>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Bones'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Bones.h(112,7): message : vea la declaración de 'std::vector<Bones::BoneInfo,std::allocator<Bones::BoneInfo>>'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Bones.h(113,30): warning C4251: 'Bones::bones': class 'std::vector<Bones::VertexBoneData,std::allocator<Bones::VertexBoneData>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Bones'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Bones.h(113,7): message : vea la declaración de 'std::vector<Bones::VertexBoneData,std::allocator<Bones::VertexBoneData>>'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Mesh.h(54,24): warning C4251: 'Mesh::textures': class 'std::vector<Texture *,std::allocator<Texture *>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Mesh'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Mesh.h(54,7): message : vea la declaración de 'std::vector<Texture *,std::allocator<Texture *>>'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Model.h(66,21): warning C4251: 'Model::meshes': class 'std::vector<Mesh *,std::allocator<Mesh *>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Model'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Model.h(50,7): message : vea la declaración de 'std::vector<Mesh *,std::allocator<Mesh *>>'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Model.h(67,24): warning C4251: 'Model::textureLoaded': class 'std::vector<Texture *,std::allocator<Texture *>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Model'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Mesh.h(54,7): message : vea la declaración de 'std::vector<Texture *,std::allocator<Texture *>>'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Model.h(68,14): warning C4251: 'Model::directory': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Model'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(5119,29): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Model.h(70,12): warning C4251: 'Model::m_GlobalInverseTransform': struct 'glm::mat<4,4,glm::f32,glm::packed_highp>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Model'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\external\glm\glm\fwd.hpp(520,10): message : vea la declaración de 'glm::mat<4,4,glm::f32,glm::packed_highp>'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\Model.h(72,19): warning C4251: 'Model::importer': class 'Assimp::Importer' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Model'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\external\assimp\include\assimp\Importer.hpp(122,18): message : vea la declaración de 'Assimp::Importer'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AnimationUtils.h(57,13): warning C4273: 'matToString': vinculación de DLL incoherente
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AnimationUtils.h(45,24): message : vea la definición anterior de 'matToString'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AnimationUtils.h(68,6): warning C4273: 'appendFrame': vinculación de DLL incoherente
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AnimationUtils.h(46,17): message : vea la definición anterior de 'appendFrame'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AnimationUtils.h(77,6): warning C4273: 'appendFrame': vinculación de DLL incoherente
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AnimationUtils.h(48,17): message : vea la definición anterior de 'appendFrame'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AnimationUtils.h(86,37): warning C4273: 'getKeyFrames': vinculación de DLL incoherente
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AnimationUtils.h(50,48): message : vea la definición anterior de 'getKeyFrames'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AnimationUtils.h(112,20): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AnimationUtils.h(128,19): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AnimationUtils.h(138,33): warning C4273: 'getKeyRotFrames': vinculación de DLL incoherente
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AnimationUtils.h(51,44): message : vea la definición anterior de 'getKeyRotFrames'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AnimationUtils.h(153,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AnimationUtils.h(162,11): warning C4273: 'interpolate': vinculación de DLL incoherente
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AnimationUtils.h(52,22): message : vea la definición anterior de 'interpolate'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AnimationUtils.h(183,7): warning C4273: 'interpolate': vinculación de DLL incoherente
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\CGALib\include\Headers\AnimationUtils.h(54,18): message : vea la definición anterior de 'interpolate'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\01-AnimacionKeyFrames\src\main.cpp(528,17): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\01-AnimacionKeyFrames\src\main.cpp(529,17): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\01-AnimacionKeyFrames\src\main.cpp(530,18): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\01-AnimacionKeyFrames\src\main.cpp(531,18): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\01-AnimacionKeyFrames\src\main.cpp(557,33): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\01-AnimacionKeyFrames\src\main.cpp(559,34): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\01-AnimacionKeyFrames\src\main.cpp(561,34): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\01-AnimacionKeyFrames\src\main.cpp(563,33): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\01-AnimacionKeyFrames\src\main.cpp(565,45): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\01-AnimacionKeyFrames\src\main.cpp(565,36): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\01-AnimacionKeyFrames\src\main.cpp(565,27): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\01-AnimacionKeyFrames\src\main.cpp(610,22): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\01-AnimacionKeyFrames\src\main.cpp(613,22): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\01-AnimacionKeyFrames\src\main.cpp(616,25): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\01-AnimacionKeyFrames\src\main.cpp(619,25): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\01-AnimacionKeyFrames\src\main.cpp(622,26): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\01-AnimacionKeyFrames\src\main.cpp(625,26): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\01-AnimacionKeyFrames\src\main.cpp(628,26): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\01-AnimacionKeyFrames\src\main.cpp(631,26): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\01-AnimacionKeyFrames\src\main.cpp(634,27): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\01-AnimacionKeyFrames\src\main.cpp(637,27): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\01-AnimacionKeyFrames\src\main.cpp(640,25): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\01-AnimacionKeyFrames\src\main.cpp(643,25): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\01-AnimacionKeyFrames\src\main.cpp(646,26): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\01-AnimacionKeyFrames\src\main.cpp(649,26): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\01-AnimacionKeyFrames\src\main.cpp(674,17): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+     Creando biblioteca C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\Release\01-AnimacionKeyFrames.lib y objeto C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\Release\01-AnimacionKeyFrames.exp
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+  All 691 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  01-AnimacionKeyFrames.vcxproj -> C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\Release\01-AnimacionKeyFrames.exe

@@ -1,0 +1,3 @@
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\11-OpenAL.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\11-OpenAL.dir/objects.a @CMakeFiles\11-OpenAL.dir\objects1.rsp
+C:\msys64\ucrt64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\11-OpenAL.dir/objects.a -Wl,--no-whole-archive -o C:\Users\jgote\Desktop\CGA\ComputacionGraficaAvanzada\bin\11-OpenAL.exe -Wl,--out-implib,lib11-OpenAL.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\11-OpenAL.dir\linkLibs.rsp

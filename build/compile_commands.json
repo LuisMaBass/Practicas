@@ -1,0 +1,170 @@
+[
+{
+  "directory": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/build/CGALib",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBUILDING_DLL -DCGALib_EXPORTS @CMakeFiles/CGALib.dir/includes_CXX.rsp -g -o CMakeFiles\\CGALib.dir\\src\\Bones.cpp.obj -c C:\\Users\\jgote\\Desktop\\CGA\\ComputacionGraficaAvanzada\\CGALib\\src\\Bones.cpp",
+  "file": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/CGALib/src/Bones.cpp",
+  "output": "CGALib/CMakeFiles/CGALib.dir/src/Bones.cpp.obj"
+},
+{
+  "directory": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/build/CGALib",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBUILDING_DLL -DCGALib_EXPORTS @CMakeFiles/CGALib.dir/includes_CXX.rsp -g -o CMakeFiles\\CGALib.dir\\src\\Box.cpp.obj -c C:\\Users\\jgote\\Desktop\\CGA\\ComputacionGraficaAvanzada\\CGALib\\src\\Box.cpp",
+  "file": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/CGALib/src/Box.cpp",
+  "output": "CGALib/CMakeFiles/CGALib.dir/src/Box.cpp.obj"
+},
+{
+  "directory": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/build/CGALib",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBUILDING_DLL -DCGALib_EXPORTS @CMakeFiles/CGALib.dir/includes_CXX.rsp -g -o CMakeFiles\\CGALib.dir\\src\\Cylinder.cpp.obj -c C:\\Users\\jgote\\Desktop\\CGA\\ComputacionGraficaAvanzada\\CGALib\\src\\Cylinder.cpp",
+  "file": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/CGALib/src/Cylinder.cpp",
+  "output": "CGALib/CMakeFiles/CGALib.dir/src/Cylinder.cpp.obj"
+},
+{
+  "directory": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/build/CGALib",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBUILDING_DLL -DCGALib_EXPORTS @CMakeFiles/CGALib.dir/includes_CXX.rsp -g -o CMakeFiles\\CGALib.dir\\src\\FirstPersonCamera.cpp.obj -c C:\\Users\\jgote\\Desktop\\CGA\\ComputacionGraficaAvanzada\\CGALib\\src\\FirstPersonCamera.cpp",
+  "file": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/CGALib/src/FirstPersonCamera.cpp",
+  "output": "CGALib/CMakeFiles/CGALib.dir/src/FirstPersonCamera.cpp.obj"
+},
+{
+  "directory": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/build/CGALib",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBUILDING_DLL -DCGALib_EXPORTS @CMakeFiles/CGALib.dir/includes_CXX.rsp -g -o CMakeFiles\\CGALib.dir\\src\\FontTypeRendering.cpp.obj -c C:\\Users\\jgote\\Desktop\\CGA\\ComputacionGraficaAvanzada\\CGALib\\src\\FontTypeRendering.cpp",
+  "file": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/CGALib/src/FontTypeRendering.cpp",
+  "output": "CGALib/CMakeFiles/CGALib.dir/src/FontTypeRendering.cpp.obj"
+},
+{
+  "directory": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/build/CGALib",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBUILDING_DLL -DCGALib_EXPORTS @CMakeFiles/CGALib.dir/includes_CXX.rsp -g -o CMakeFiles\\CGALib.dir\\src\\Mesh.cpp.obj -c C:\\Users\\jgote\\Desktop\\CGA\\ComputacionGraficaAvanzada\\CGALib\\src\\Mesh.cpp",
+  "file": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/CGALib/src/Mesh.cpp",
+  "output": "CGALib/CMakeFiles/CGALib.dir/src/Mesh.cpp.obj"
+},
+{
+  "directory": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/build/CGALib",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBUILDING_DLL -DCGALib_EXPORTS @CMakeFiles/CGALib.dir/includes_CXX.rsp -g -o CMakeFiles\\CGALib.dir\\src\\Model.cpp.obj -c C:\\Users\\jgote\\Desktop\\CGA\\ComputacionGraficaAvanzada\\CGALib\\src\\Model.cpp",
+  "file": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/CGALib/src/Model.cpp",
+  "output": "CGALib/CMakeFiles/CGALib.dir/src/Model.cpp.obj"
+},
+{
+  "directory": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/build/CGALib",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBUILDING_DLL -DCGALib_EXPORTS @CMakeFiles/CGALib.dir/includes_CXX.rsp -g -o CMakeFiles\\CGALib.dir\\src\\Shader.cpp.obj -c C:\\Users\\jgote\\Desktop\\CGA\\ComputacionGraficaAvanzada\\CGALib\\src\\Shader.cpp",
+  "file": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/CGALib/src/Shader.cpp",
+  "output": "CGALib/CMakeFiles/CGALib.dir/src/Shader.cpp.obj"
+},
+{
+  "directory": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/build/CGALib",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBUILDING_DLL -DCGALib_EXPORTS @CMakeFiles/CGALib.dir/includes_CXX.rsp -g -o CMakeFiles\\CGALib.dir\\src\\ShadowBox.cpp.obj -c C:\\Users\\jgote\\Desktop\\CGA\\ComputacionGraficaAvanzada\\CGALib\\src\\ShadowBox.cpp",
+  "file": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/CGALib/src/ShadowBox.cpp",
+  "output": "CGALib/CMakeFiles/CGALib.dir/src/ShadowBox.cpp.obj"
+},
+{
+  "directory": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/build/CGALib",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBUILDING_DLL -DCGALib_EXPORTS @CMakeFiles/CGALib.dir/includes_CXX.rsp -g -o CMakeFiles\\CGALib.dir\\src\\Sphere.cpp.obj -c C:\\Users\\jgote\\Desktop\\CGA\\ComputacionGraficaAvanzada\\CGALib\\src\\Sphere.cpp",
+  "file": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/CGALib/src/Sphere.cpp",
+  "output": "CGALib/CMakeFiles/CGALib.dir/src/Sphere.cpp.obj"
+},
+{
+  "directory": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/build/CGALib",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBUILDING_DLL -DCGALib_EXPORTS @CMakeFiles/CGALib.dir/includes_CXX.rsp -g -o CMakeFiles\\CGALib.dir\\src\\Terrain.cpp.obj -c C:\\Users\\jgote\\Desktop\\CGA\\ComputacionGraficaAvanzada\\CGALib\\src\\Terrain.cpp",
+  "file": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/CGALib/src/Terrain.cpp",
+  "output": "CGALib/CMakeFiles/CGALib.dir/src/Terrain.cpp.obj"
+},
+{
+  "directory": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/build/CGALib",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBUILDING_DLL -DCGALib_EXPORTS @CMakeFiles/CGALib.dir/includes_CXX.rsp -g -o CMakeFiles\\CGALib.dir\\src\\Texture.cpp.obj -c C:\\Users\\jgote\\Desktop\\CGA\\ComputacionGraficaAvanzada\\CGALib\\src\\Texture.cpp",
+  "file": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/CGALib/src/Texture.cpp",
+  "output": "CGALib/CMakeFiles/CGALib.dir/src/Texture.cpp.obj"
+},
+{
+  "directory": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/build/CGALib",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBUILDING_DLL -DCGALib_EXPORTS @CMakeFiles/CGALib.dir/includes_CXX.rsp -g -o CMakeFiles\\CGALib.dir\\src\\ThirdPersonCamera.cpp.obj -c C:\\Users\\jgote\\Desktop\\CGA\\ComputacionGraficaAvanzada\\CGALib\\src\\ThirdPersonCamera.cpp",
+  "file": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/CGALib/src/ThirdPersonCamera.cpp",
+  "output": "CGALib/CMakeFiles/CGALib.dir/src/ThirdPersonCamera.cpp.obj"
+},
+{
+  "directory": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/build/CGALib",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBUILDING_DLL -DCGALib_EXPORTS @CMakeFiles/CGALib.dir/includes_CXX.rsp -g -o CMakeFiles\\CGALib.dir\\src\\TimeManager.cpp.obj -c C:\\Users\\jgote\\Desktop\\CGA\\ComputacionGraficaAvanzada\\CGALib\\src\\TimeManager.cpp",
+  "file": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/CGALib/src/TimeManager.cpp",
+  "output": "CGALib/CMakeFiles/CGALib.dir/src/TimeManager.cpp.obj"
+},
+{
+  "directory": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/build/00-Introduccion",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBUILDING_DLL @CMakeFiles/00-Introduccion.dir/includes_CXX.rsp -g -o CMakeFiles\\00-Introduccion.dir\\src\\main.cpp.obj -c C:\\Users\\jgote\\Desktop\\CGA\\ComputacionGraficaAvanzada\\00-Introduccion\\src\\main.cpp",
+  "file": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/00-Introduccion/src/main.cpp",
+  "output": "00-Introduccion/CMakeFiles/00-Introduccion.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/build/01-AnimacionKeyFrames",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBUILDING_DLL @CMakeFiles/01-AnimacionKeyFrames.dir/includes_CXX.rsp -g -o CMakeFiles\\01-AnimacionKeyFrames.dir\\src\\main.cpp.obj -c C:\\Users\\jgote\\Desktop\\CGA\\ComputacionGraficaAvanzada\\01-AnimacionKeyFrames\\src\\main.cpp",
+  "file": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/01-AnimacionKeyFrames/src/main.cpp",
+  "output": "01-AnimacionKeyFrames/CMakeFiles/01-AnimacionKeyFrames.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/build/02-SkeletonAnimation",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBUILDING_DLL @CMakeFiles/02-SkeletonAnimation.dir/includes_CXX.rsp -g -o CMakeFiles\\02-SkeletonAnimation.dir\\src\\main.cpp.obj -c C:\\Users\\jgote\\Desktop\\CGA\\ComputacionGraficaAvanzada\\02-SkeletonAnimation\\src\\main.cpp",
+  "file": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/02-SkeletonAnimation/src/main.cpp",
+  "output": "02-SkeletonAnimation/CMakeFiles/02-SkeletonAnimation.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/build/03-Terrain",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBUILDING_DLL @CMakeFiles/03-Terrain.dir/includes_CXX.rsp -g -o CMakeFiles\\03-Terrain.dir\\src\\main.cpp.obj -c C:\\Users\\jgote\\Desktop\\CGA\\ComputacionGraficaAvanzada\\03-Terrain\\src\\main.cpp",
+  "file": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/03-Terrain/src/main.cpp",
+  "output": "03-Terrain/CMakeFiles/03-Terrain.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/build/04-TerrainBlendMap",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBUILDING_DLL @CMakeFiles/04-TerrainBlendMap.dir/includes_CXX.rsp -g -o CMakeFiles\\04-TerrainBlendMap.dir\\src\\main.cpp.obj -c C:\\Users\\jgote\\Desktop\\CGA\\ComputacionGraficaAvanzada\\04-TerrainBlendMap\\src\\main.cpp",
+  "file": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/04-TerrainBlendMap/src/main.cpp",
+  "output": "04-TerrainBlendMap/CMakeFiles/04-TerrainBlendMap.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/build/05-MultipleLights",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBUILDING_DLL @CMakeFiles/05-MultipleLights.dir/includes_CXX.rsp -g -o CMakeFiles\\05-MultipleLights.dir\\src\\main.cpp.obj -c C:\\Users\\jgote\\Desktop\\CGA\\ComputacionGraficaAvanzada\\05-MultipleLights\\src\\main.cpp",
+  "file": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/05-MultipleLights/src/main.cpp",
+  "output": "05-MultipleLights/CMakeFiles/05-MultipleLights.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/build/06-CameraTPS",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBUILDING_DLL @CMakeFiles/06-CameraTPS.dir/includes_CXX.rsp -g -o CMakeFiles\\06-CameraTPS.dir\\src\\main.cpp.obj -c C:\\Users\\jgote\\Desktop\\CGA\\ComputacionGraficaAvanzada\\06-CameraTPS\\src\\main.cpp",
+  "file": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/06-CameraTPS/src/main.cpp",
+  "output": "06-CameraTPS/CMakeFiles/06-CameraTPS.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/build/07-Colisiones",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBUILDING_DLL @CMakeFiles/07-Colisiones.dir/includes_CXX.rsp -g -o CMakeFiles\\07-Colisiones.dir\\src\\main.cpp.obj -c C:\\Users\\jgote\\Desktop\\CGA\\ComputacionGraficaAvanzada\\07-Colisiones\\src\\main.cpp",
+  "file": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/07-Colisiones/src/main.cpp",
+  "output": "07-Colisiones/CMakeFiles/07-Colisiones.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/build/08-DepthTesting",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBUILDING_DLL @CMakeFiles/08-DepthTesting.dir/includes_CXX.rsp -g -o CMakeFiles\\08-DepthTesting.dir\\src\\main.cpp.obj -c C:\\Users\\jgote\\Desktop\\CGA\\ComputacionGraficaAvanzada\\08-DepthTesting\\src\\main.cpp",
+  "file": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/08-DepthTesting/src/main.cpp",
+  "output": "08-DepthTesting/CMakeFiles/08-DepthTesting.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/build/09-Blending",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBUILDING_DLL @CMakeFiles/09-Blending.dir/includes_CXX.rsp -g -o CMakeFiles\\09-Blending.dir\\src\\main.cpp.obj -c C:\\Users\\jgote\\Desktop\\CGA\\ComputacionGraficaAvanzada\\09-Blending\\src\\main.cpp",
+  "file": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/09-Blending/src/main.cpp",
+  "output": "09-Blending/CMakeFiles/09-Blending.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/build/10-Fog",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBUILDING_DLL @CMakeFiles/10-Fog.dir/includes_CXX.rsp -g -o CMakeFiles\\10-Fog.dir\\src\\main.cpp.obj -c C:\\Users\\jgote\\Desktop\\CGA\\ComputacionGraficaAvanzada\\10-Fog\\src\\main.cpp",
+  "file": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/10-Fog/src/main.cpp",
+  "output": "10-Fog/CMakeFiles/10-Fog.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/build/11-OpenAL",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBUILDING_DLL @CMakeFiles/11-OpenAL.dir/includes_CXX.rsp -g -o CMakeFiles\\11-OpenAL.dir\\src\\main.cpp.obj -c C:\\Users\\jgote\\Desktop\\CGA\\ComputacionGraficaAvanzada\\11-OpenAL\\src\\main.cpp",
+  "file": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/11-OpenAL/src/main.cpp",
+  "output": "11-OpenAL/CMakeFiles/11-OpenAL.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/build/12-ShadowMapping",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBUILDING_DLL @CMakeFiles/12-ShadowMapping.dir/includes_CXX.rsp -g -o CMakeFiles\\12-ShadowMapping.dir\\src\\main.cpp.obj -c C:\\Users\\jgote\\Desktop\\CGA\\ComputacionGraficaAvanzada\\12-ShadowMapping\\src\\main.cpp",
+  "file": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/12-ShadowMapping/src/main.cpp",
+  "output": "12-ShadowMapping/CMakeFiles/12-ShadowMapping.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/build/13-Particulas",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBUILDING_DLL @CMakeFiles/13-Particulas.dir/includes_CXX.rsp -g -o CMakeFiles\\13-Particulas.dir\\src\\main.cpp.obj -c C:\\Users\\jgote\\Desktop\\CGA\\ComputacionGraficaAvanzada\\13-Particulas\\src\\main.cpp",
+  "file": "C:/Users/jgote/Desktop/CGA/ComputacionGraficaAvanzada/13-Particulas/src/main.cpp",
+  "output": "13-Particulas/CMakeFiles/13-Particulas.dir/src/main.cpp.obj"
+}
+]
